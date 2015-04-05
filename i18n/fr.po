@@ -1,0 +1,27 @@
+# French translations for PACKAGE package
+# Traductions françaises du paquet PACKAGE.
+# Copyright (C) 2015 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Reddy Pyla <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-11 20:18+0530\n"
+"PO-Revision-Date: 2015-01-11 20:20+0530\n"
+"Last-Translator: Reddy Pyla <EMAIL@ADDRESS>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: sampleProgram.py:5
+msgid "where is all the bitches"
+msgstr "at your home"
+
+#: sampleProgram.py:6
+msgid "what the fuck is going on"
+msgstr "you should be able to see as you are the one getting fucked"
